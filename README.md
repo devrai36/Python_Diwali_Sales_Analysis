@@ -1,7 +1,7 @@
 # Python_Diwali_Sales_Analysis
 Diwali sales analysis using Python and Python libraries such as Numpy, Pandas, Matplotlib and Seaborn.
 
-# Project learnings
+## Project learnings
 • Performed data cleaning and manipulation
 
 • Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries
